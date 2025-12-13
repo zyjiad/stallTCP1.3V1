@@ -8,9 +8,9 @@
 
 --------------------------------------
 
-**snippets部署请看snippets.js代码**
+**snippets部署请看  snippets.js代码**
 
-**worker部署请看 _worker.js代码**
+**worker部署请看  _worker.js代码**
 
 --------------------------------------------
 
